@@ -1,5 +1,3 @@
-Author: Zain Rehmani
-
 The Block Game (Based on The Fishy Game)
 
 The Fishy Game: http://www.learn4good.com/kids-games/online/play_fishy_online.htm
